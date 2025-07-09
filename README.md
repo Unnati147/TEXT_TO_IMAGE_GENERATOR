@@ -34,7 +34,7 @@ Generate stunning AI-powered images from text prompts using the Stable Diffusion
 git clone https://github.com/your-username/text-to-image-generator.git
 cd text-to-image-generator
 
-How to Generate Your Hugging Face API Token
+## How to Generate Your Hugging Face API Token
 -Go to https://huggingface.co/settings/tokens
 
 -Click on "New token"
