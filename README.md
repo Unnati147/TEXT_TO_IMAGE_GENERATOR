@@ -3,7 +3,9 @@ Generate stunning AI-powered images from text prompts using the Stable Diffusion
 
 ## 📸 Demo
 
-| *"A futuristic cyberpunk city with neon lights"* | ![sample](assets/![Screenshot 2025-07-09 101106](https://github.com/user-attachments/assets/e3c67ff2-b380-4cb0-a217-883c5b520e79)
+ "A futuristic cyberpunk city with neon lights"
+ 
+(assets/![Screenshot 2025-07-09 101106](https://github.com/user-attachments/assets/e3c67ff2-b380-4cb0-a217-883c5b520e79)
 .png) |
 
 ---
